@@ -4,7 +4,6 @@
     "license": "MIT",
     "description": "A Twig pack for Symfony projects",
     "require": {
-        "php": "^7.0",
         "symfony/twig-bundle": "*",
         "twig/twig": "^2.12|^3.0",
         "twig/extra-bundle": "^2.12|^3.0"
